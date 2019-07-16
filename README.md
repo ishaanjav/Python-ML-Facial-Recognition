@@ -55,12 +55,12 @@ Once you get your own CSV of data, then you have to tweak the code so that it kn
     
 The rest of the modifications are rather straightforward because the code has comments.
 
-**You can also make modifications to the code by changing the hyperparameters of the Classification Algorithm and the Neural Networks.**
+**You can also make modifications to the accuracy/output of the program by changing the hyperparameters of the Classification Algorithm and the Neural Networks.**
 Fortunately, I have also included detailed comments on what each of the hyperparameters are and you can also check out the [**ML Wiki**](https://github.com/ishaanjav/Weka-ML-Face-Recognition/wiki) that I have made.
 
 ## Additional Note
-Please take into consideration that the [Neural Network Facial REcognition File](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/Neural%20Network%20Facial%20Recognition.ipynb) is **very intensive and requires a lot of resources when running. Additionally, it takes a while to run.**
+Please take into consideration that the [Neural Network Facial Recognition File](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/Neural%20Network%20Facial%20Recognition.ipynb) is **very intensive and requires a lot of resources when running. Additionally, it takes a while to run.**
 
-You can try to lessen this by reducing the epoch number *(# of iterations)* or changing some of the other hyperparameters.
+You can try to lessen this by reducing the epoch number *(# of iterations)* or changing some of the other hyperparameters, but this may result in a tradeoff with accuracy.
 
 **If you found this repository useful or enjoyed it, please give it a star and check out some of my [other repositories](https://github.com/ishaanjav)!**
