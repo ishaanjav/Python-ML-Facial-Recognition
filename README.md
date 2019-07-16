@@ -3,9 +3,9 @@
 **This repository contains the Python code for both classification algorithms and neural networks, *as a Jupyter Notebook file*, and facial data for classifying faces using machine learning.**
 
 ## In this Repository:
-- Jupyter Notebook file using **ML Classification Algorithms**
-- Jupyter Notebook file using **ML Neural Networks**
-- CSV containing **facial data**
+- [Jupyter Notebook file using **ML Classification Algorithms**](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/Classification%20Algorithm%20Facial%20Recognition.ipynb)
+- [Jupyter Notebook file using **ML Neural Networks**](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/Neural%20Network%20Facial%20Recognition.ipynb)
+- [CSV containing **facial data**](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/New_Data.csv)
 
 The facial data is in the form of a CSV and contains facial data such as the **distance between the cheeks, eyes, corners of the mouth, nose and mouth, and the classification for each data instance, *a number.*.**
 
@@ -32,7 +32,7 @@ It contains detailed notes, diagrams, pictures, and code with comments.
 
 ---
 ## Usage
-To use the code, simply download either one of the Jupyter Notebook files or both. *One contains the code for using classification algorithms for facial recognition while the other uses neural networks.*
+To use the code, simply download either one of the Jupyter Notebook files, or both. *One contains the code for using [classification algorithms](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/Classification%20Algorithm%20Facial%20Recognition.ipynb) for facial recognition while the other uses [neural networks](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/Neural%20Network%20Facial%20Recognition.ipynb).*
 
 For your convenience, **a CSV containing sample facial data has also been attached,** that way, you can download the CSV as well and try the code for yourself. 
 
@@ -59,7 +59,7 @@ The rest of the modifications are rather straightforward because the code has co
 Fortunately, I have also included detailed comments on what each of the hyperparameters are and you can also check out the [**ML Wiki**](https://github.com/ishaanjav/Weka-ML-Face-Recognition/wiki) that I have made.
 
 ## Additional Note
-Please take into consideration that the [Neural Network Classification File]() is **very intensive and requires a lot of resources when running. Additionally, it takes a while to run.**
+Please take into consideration that the [Neural Network Facial REcognition File](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/Neural%20Network%20Facial%20Recognition.ipynb) is **very intensive and requires a lot of resources when running. Additionally, it takes a while to run.**
 
 You can try to lessen this by reducing the epoch number *(# of iterations)* or changing some of the other hyperparameters.
 
