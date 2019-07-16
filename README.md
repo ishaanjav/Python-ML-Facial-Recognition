@@ -2,6 +2,11 @@
 
 **This repository contains the Python code for both classification algorithms and neural networks, *as a Jupyter Notebook file*, and facial data for classifying faces using machine learning.**
 
+## In this Repository:
+- Jupyter Notebook file using **ML Classification Algorithms**
+- Jupyter Notebook file using **ML Neural Networks**
+- CSV containing **facial data**
+
 The facial data is in the form of a CSV and contains facial data such as the **distance between the cheeks, eyes, corners of the mouth, nose and mouth, and the classification for each data instance, *a number.*.**
 
 Feel free to go ahead and substitute the facial data in the CSV with some of your own data and parameters. **The facial data was obtained using Firebase's ML Kit to get the positions of facial features and calculating the distance between them.**
@@ -52,3 +57,10 @@ The rest of the modifications are rather straightforward because the code has co
 
 **You can also make modifications to the code by changing the hyperparameters of the Classification Algorithm and the Neural Networks.**
 Fortunately, I have also included detailed comments on what each of the hyperparameters are and you can also check out the [**ML Wiki**](https://github.com/ishaanjav/Weka-ML-Face-Recognition/wiki) that I have made.
+
+## Additional Note
+Please take into consideration that the [Neural Network Classification File]() is **very intensive and requires a lot of resources when running. Additionally, it takes a while to run.**
+
+You can try to lessen this by reducing the epoch number *(# of iterations)* or changing some of the other hyperparameters.
+
+**If you found this repository useful or enjoyed it, please give it a star and check out some of my [other repositories](https://github.com/ishaanjav)!**
