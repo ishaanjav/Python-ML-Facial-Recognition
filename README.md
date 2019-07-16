@@ -7,7 +7,7 @@
 - [Jupyter Notebook file using **ML Neural Networks**](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/Neural%20Network%20Facial%20Recognition.ipynb)
 - [CSV containing **facial data**](https://github.com/ishaanjav/Python-ML-Facial-Recognition/blob/master/New_Data.csv)
 
-The facial data is in the form of a CSV and contains facial data such as the **distance between the cheeks, eyes, corners of the mouth, nose and mouth, and the classification for each data instance, *a number.*.**
+The facial data is in the form of a CSV and contains facial data such as the **distance between the cheeks, eyes, corners of the mouth, nose and mouth, and the classification for each data instance, *a number.***
 
 Feel free to go ahead and substitute the facial data in the CSV with some of your own data and parameters. **The facial data was obtained using Firebase's ML Kit to get the positions of facial features and calculating the distance between them.**
 
